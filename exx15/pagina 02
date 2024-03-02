@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>titulos locais/internos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>atividade 1</h1>
+    <h2>atividade 1.1</h2>
+    <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt nostrum repellat ullam nemo inventore unde dolorum ipsam, modi sequi molestias, et dicta fugit molestiae alias. Sequi quasi non cum veniam.</p>
+    <h2>atividade 2</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo reiciendis itaque qui, temporibus ad deserunt fugit natus. Sit consectetur, quo natus iusto corrupti, illo alias unde ullam saepe obcaecati exercitationem!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias dignissimos hic repudiandae corrupti consequatur nesciunt maxime autem itaque error porro! Corrupti quos amet, odio numquam doloribus perspiciatis sunt aliquid consectetur!</p>
+    <p><a href="index.html">voltar para a pagina 1</a></p>
+
+</body>
+</html>
